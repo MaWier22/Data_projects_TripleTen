@@ -12,12 +12,16 @@ This project investigates the root causes of the high number of returned orders 
 
 ## 📊 Analysis
 
+<a href = "https://github.com/MaWier22/Data_projects_TripleTen/blob/main/Superstore%20returns/SuperstoreReturns-1.pdf">Analysis Report</a>
+
 **Visual Analyses Included:**
 - **Scatterplot:** Correlation between total sales and total returns by product subcategory. This helps determine if higher sales naturally lead to more returns.
+  <img src="Scatterplot.png"/>
 - **Bar Chart:** Return rate by product category, highlighting which categories have the highest and lowest return rates.
 - **Customer View:** Return rate by customer, filtered to show only repeat customers to spot patterns in customer behavior.
 - **Geographic Map:** Return rate by state to identify regional trends and concentrations of returned orders.
 - **Time Series:** Return rate by month to examine any seasonal trends in product returns.
+   <img src="Dashboard.png"/>
 
 **Key Insights:**
 - A **positive correlation** exists between sales and total returns — more sales often result in more returns.
@@ -52,5 +56,4 @@ The interactive Tableau **dashboard** and **story** allow stakeholders to:
 - **Continuous Tracking:**  
   - Regularly update the dashboard to monitor progress and adjust strategies based on new data.
 
-**Prepared by:** *[Your Name or Team]*  
-**Date:** *[Project Date]*
+
