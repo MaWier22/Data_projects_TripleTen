@@ -12,7 +12,8 @@ This project investigates the root causes of the high number of returned orders 
 
 ## 📊 Analysis
 
-<a href = "https://github.com/MaWier22/Data_projects_TripleTen/blob/main/Superstore%20returns/SuperstoreReturns-1.pdf">Analysis Report</a>
+<a href = "https://github.com/MaWier22/Data_projects_TripleTen/blob/main/Superstore%20returns/SuperstoreReturns-1.pdf">Analysis Report</a><br/>
+<a href = "https://public.tableau.com/views/Sprint5_17509879603310/Superstorereturns?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Tableau Story</a>
 
 **Visual Analyses Included:**
 - **Scatterplot:** Correlation between total sales and total returns by product subcategory. This helps determine if higher sales naturally lead to more returns.
