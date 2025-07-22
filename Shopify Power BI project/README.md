@@ -13,6 +13,9 @@ The `shopify.xlsx` dataset includes:
 
 ## 📊 Analysis
 
+<a href ="https://github.com/MaWier22/Data_projects_TripleTen/blob/main/Shopify%20Power%20BI%20project/Shopify%20Power%20BI%20overview.pdf" > Shopify Analysis Report </a>
+
+
 **Key Visuals Built:**
 
 - **KPI Card:** Displays the total unique number of apps available on Shopify.
@@ -39,5 +42,4 @@ The `shopify.xlsx` dataset includes:
 - **Monitor Trends:** Use time-based review trends to identify peak popularity periods and potential opportunities for new marketing or support.
 - **Explore Categories:** Analyze which app categories deliver the best customer satisfaction to guide future investment and partnerships.
 
-**Prepared by:** *[Your Name or Team]*  
-**Date:** *[Date]*
+
