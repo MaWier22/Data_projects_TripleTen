@@ -22,10 +22,12 @@ The `shopify.xlsx` dataset includes:
 - **Line Chart:** Shows the total number of reviews over time (`lastmod` date) to reveal trends in review activity.
 - **Scatterplot:** Plots `reviews_count` on the X-axis and `average rating` on the Y-axis to show the relationship between popularity and app quality.  
   - *Observation:* Most apps cluster around high ratings (4–5 stars), with very few apps having low ratings.
+  <img src ="Apps.png"/>
 - **Developer Bar Chart (Sum of Ratings):** Shows each developer’s total sum of ratings.  
   - *Note:* This can be misleading because a high sum can still mean many low-star reviews.
 - **Developer Bar Chart (Helpful Reviews Average):** Shows average `helpful_review` scores for each developer to better indicate quality.
 - **Developer Responsiveness Bar Chart:** Shows how many reviews developers respond to (`developer_answered`), filtered to only apps with over 500 reviews to highlight engagement for large-scale apps.
+    <img src ="App_reviews.png"/>
 
 ## ✅ Conclusions
 
